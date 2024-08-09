@@ -42,6 +42,19 @@
       box-shadow: 0 0 5px #209edd;
     }
 }
+.ad-promo{
+  background-color: #0088cc;
+  color: #ffffff;
+  padding: 10px 15px;
+  font-size: medium;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  animation: glowing 1300ms infinite;
+}
     .telegram-button img {
         margin-right: 5px;
     }
