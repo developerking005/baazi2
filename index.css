@@ -64,6 +64,7 @@ h1 {
 .whatsapp-btn{
   background: green;
   color: white;
+  font-size:10px;
   border-radius: 25px;
   padding: 10px 20px;  
 }
